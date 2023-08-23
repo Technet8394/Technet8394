@@ -11,7 +11,7 @@
 
 Twitter: [@Technet8394](https://twitter.com/Technet8394)
 
-Discord: [@Technet#8394](discord.com)
+Discord: [@teknet](discord.com)
 
 Youtube: [@Technet0](https://www.youtube.com/@Technet0)
 
