@@ -2,7 +2,7 @@
 
 **Mainly codes in Powershell for scripting and Javascript for mainly everything else, learning python**
 
-**Almost all coding is done in private repositorys.**
+**Almost all coding is done in private repositories.**
  
 **1st State Award Cyberpatriot in (State Removed for Privacy)**
 
