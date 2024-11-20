@@ -4,7 +4,7 @@
 
 **Almost all coding is done in private repositories.**
  
-**1st State Award Cyberpatriot in (State Removed for Privacy)**
+**1st State Award Cyberpatriot**
 
 **Socials**
 
