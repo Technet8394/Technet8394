@@ -13,6 +13,4 @@ Twitter: [@Technet8394](https://twitter.com/Technet8394)
 
 Discord: [@teknet](discord.com)
 
-Youtube: [@Technet0](https://www.youtube.com/@Technet0)
-
 GitHub: nice job smart guy youre on it.
