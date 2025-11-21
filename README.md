@@ -1,6 +1,6 @@
-# Hello
+# Hello!
 
-I am a cybersecurity student who spends a majority of my time programming just trying to do one specific thing that popped into my head, without a clue of how to even start.
+I am Technet, a cybersecurity student who spends a majority of my time programming just trying to do one specific thing that popped into my head, without a clue of how to even start.
 
 I know Powershell and Python, but can use Bash, C++ and Javascript very poorly, in order from best to worst.
 
